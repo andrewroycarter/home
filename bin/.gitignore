@@ -1,2 +1,5 @@
 # Don't want symlink to subl
 subl
+
+# SSH helpers
+aspen
