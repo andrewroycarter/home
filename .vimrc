@@ -29,3 +29,4 @@ set showmatch
 
 set comments=s1:/*,mb:\ *,elx:\ */
 
+colorscheme monokai
