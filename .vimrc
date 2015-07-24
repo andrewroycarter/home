@@ -1,5 +1,9 @@
 set term=ansi
 
+set ai
+set si
+set wrap
+
 set enc=utf-8
 set fenc=utf-8
 set termencoding=utf-8
