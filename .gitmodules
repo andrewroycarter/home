@@ -1,6 +1,0 @@
-[submodule "monokai.terminal"]
-	path = monokai.terminal
-	url = git@github.com:stephenway/monokai.terminal.git
-[submodule "xcode-monokai-revisited"]
-	path = xcode-monokai-revisited
-	url = git@github.com:b0ti/xcode-monokai-revisited.git
