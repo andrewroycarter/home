@@ -1,0 +1,2 @@
+#!/bin/bash
+git log --since="2 weeks ago" --pretty=oneline --abbrev-commit --no-merges
